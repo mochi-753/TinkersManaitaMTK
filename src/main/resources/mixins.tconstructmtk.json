@@ -1,0 +1,17 @@
+{
+  "minVersion": "0.8",
+  "required": true,
+  "package": "com.mochi_753.tconstructmtk.mixin",
+  "refmap": "mixins.tconstructmtk.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LivingEntityMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

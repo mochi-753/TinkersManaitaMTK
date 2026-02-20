@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "manaitamtk:item_mtk"
+  },
+  "result": {
+    "amount": 1000,
+    "fluid": "tconstructmtk:molten_mtk"
+  },
+  "temperature": 1200,
+  "time": 1
+}

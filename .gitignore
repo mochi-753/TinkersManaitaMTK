@@ -1,0 +1,14 @@
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+build
+.gradle
+
+run-client
+run-server
+run-data
+
+src/generated/resources/.cache

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "tconstructmtk:mtk",
+  "result": {
+    "amount": 90,
+    "tag": "forge:molten_mtk"
+  },
+  "temperature": 1200
+}

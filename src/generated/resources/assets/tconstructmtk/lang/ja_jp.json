@@ -1,0 +1,12 @@
+{
+  "fluid.tconstructmtk.molten_mtk": "溶融したMTK",
+  "item.tconstructmtk.molten_mtk_bucket": "溶融したMTK入りバケツ",
+  "material.tconstructmtk.mtk": "まな板",
+  "modifier.tconstructmtk.mtk": "MTK",
+  "modifier.tconstructmtk.mtk.description": "まな板の力がその身に宿る... 最強無敵のモディファイア！",
+  "modifier.tconstructmtk.mtk.flavor": "かなりまな板だよコレ！",
+  "modifier.tconstructmtk.mtk_unbreakable": "不可壊",
+  "modifier.tconstructmtk.mtk_unbreakable.description": "まな板が壊れるとでも？",
+  "modifier.tconstructmtk.mtk_unbreakable.flavor": "かなりまな板だよコレ！",
+  "stat.tconstruct.harvest_tier.tconstructmtk.mtk": "まな板"
+}

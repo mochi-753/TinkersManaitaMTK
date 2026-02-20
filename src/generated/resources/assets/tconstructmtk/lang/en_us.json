@@ -1,0 +1,12 @@
+{
+  "fluid.tconstructmtk.molten_mtk": "Molten MTK",
+  "item.tconstructmtk.molten_mtk_bucket": "Molten MTK Bucket",
+  "material.tconstructmtk.mtk": "Manaita",
+  "modifier.tconstructmtk.mtk": "MTK",
+  "modifier.tconstructmtk.mtk.description": "The might of the Manaita resides within you — the ultimate, invincible modifier.",
+  "modifier.tconstructmtk.mtk.flavor": "Manaita POWEERRRR!!!",
+  "modifier.tconstructmtk.mtk_unbreakable": "Unbreakable",
+  "modifier.tconstructmtk.mtk_unbreakable.description": "You really think Manaita’s gonna break?",
+  "modifier.tconstructmtk.mtk_unbreakable.flavor": "Manaita POWEERRRR!!!",
+  "stat.tconstruct.harvest_tier.tconstructmtk.mtk": "Manaita"
+}
